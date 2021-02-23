@@ -1,4 +1,5 @@
 # lrucache
+`
 package main
 
 import "fmt"
@@ -92,3 +93,4 @@ func main() {
 	fmt.Println(lruCache.Get("artur4"))
 	fmt.Println(lruCache.Get("artur"))
 }
+`
